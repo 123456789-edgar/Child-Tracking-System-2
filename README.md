@@ -11,9 +11,13 @@ The software package - Arduino IDE.
 Connection:
 
 VCC of Gps Module ---> 3V of Nodemcu
+
 GND of Gps Module ---> G of the Nodemcu
+
 RX of the Gps Module  ---> D1 on the Nodemcu
+
 TX of the GPS module ---> D2 on the Nodemcu.
+
 Done!!
 
 Upload code to the IDE
