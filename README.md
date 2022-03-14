@@ -22,3 +22,12 @@ Done!!
 
 Upload code to the IDE
 
+Install the necessary libraries and set the baud rate to 11500 and upload code via the dedicated usb port.
+
+Libraries.
+
+TinyGPS++.h
+
+ESP8266WiFi.h
+
+BlynkSimpleEsp8266.h
