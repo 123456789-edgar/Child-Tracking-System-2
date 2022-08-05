@@ -1,4 +1,3 @@
-//Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 //Realtime GPS Tracker with Nodemcu ESP8266
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
@@ -20,7 +19,7 @@ float spd;       //Variable  to store the speed
 float sats;      //Variable to store no. of satellites response
 String bearing;  //Variable to store orientation or direction of GPS
 
-char auth[] = "EA6RnIn99vOfwmGUWrZdPJtLW7qNXyKS";              //Your Project authentication key
+char auth[] = "GUWrZdPJtLW7qNXyKS";              //Your Project authentication key
 char ssid[] = "KABU";                                       // Name of your network (HotSpot or Router name)
 char pass[] = "";                                      // Corresponding Password
 
